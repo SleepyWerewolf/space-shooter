@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background: #000;
 }
 
 .App-logo {
@@ -16,6 +17,15 @@
 
 .App-intro {
   font-size: large;
+}
+
+.unity-container {
+  background: #000;
+}
+
+.unity-container canvas {
+  width: 722px;
+  height: 100vh;
 }
 
 @keyframes App-logo-spin {
